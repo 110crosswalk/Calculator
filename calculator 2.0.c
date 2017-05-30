@@ -6,7 +6,7 @@
     int n, num1,num2,result;
 
     printf("what operatoin do you want to do?\n");
-    printf("Press 1 to Add\n Press 2 to Subtract\n Press 3 to Multiply\n Press 4 to Divid\n");
+    printf(" Press 1 to Add\n Press 2 to Subtract\n Press 3 to Multiply\n Press 4 to Divid\n");
     scanf("%d",&n);
     printf("please enter number\n");
     scanf("%d",&num1);
